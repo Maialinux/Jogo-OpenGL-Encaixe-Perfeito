@@ -15,20 +15,13 @@ Como IDE utilizei o CodeBlocks.
   Existe uma pasta de Glut-Dev, dentro dela tem arquivos que incluem o OpenGL + Glut32
   para compor a ferramenta dentro da sua IDE CodeBlocks.
 <br><br><br>
-## 1-Jogo Mini Game 95 
 
-<p align="center"><img src="img-MG95/1.png" width="897px" height="667px"></p>
-<br>
-<p align="center"><img src="img-MG95/2.png" width="897px" height="667px"></p>
+## Encaixe Perfeito
 
-<br><br><br>
-
-## 2-Encaixe Perfeito
-
-<p align="center"><img src="img-fitting/1.png" width="897px" height="667px"></p>
+<p align="center"><img src="imagens/1.png" width="897px" height="667px"></p>
 <br>
-<p align="center"><img src="img-fitting/2.png" width="897px" height="667px"></p>
+<p align="center"><img src="imagens/2.png" width="897px" height="667px"></p>
 <br>
-<p align="center"><img src="img-fitting/3.png" width="897px" height="667px"></p>
+<p align="center"><img src="imagens/3.png" width="897px" height="667px"></p>
 <br>
-<p align="center"><img src="img-fitting/4.png" width="897px" height="667px"></p>
+<p align="center"><img src="imagens/4.png" width="897px" height="667px"></p>
