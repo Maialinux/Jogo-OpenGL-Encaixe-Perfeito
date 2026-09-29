@@ -24,4 +24,3 @@ Como IDE utilizei o CodeBlocks.
 <br>
 <p align="center"><img src="imagens/3.png" width="897px" height="667px"></p>
 <br>
-<p align="center"><img src="imagens/4.png" width="897px" height="667px"></p>
